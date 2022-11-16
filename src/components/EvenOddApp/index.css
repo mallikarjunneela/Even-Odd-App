@@ -1,0 +1,41 @@
+.bg-container {
+  background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  font-family: 'Roboto';
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 10%;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #0f172a;
+  text-align: center;
+}
+
+.counter-value {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #334155;
+  text-align: center;
+}
+
+.btn {
+  background-color: #ffffff;
+  border: 0;
+  border-radius: 10px;
+  color: #1e293b;
+  width: 150px;
+  padding: 10px 5px;
+  margin: 10px;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #334155;
+  text-align: center;
+}
